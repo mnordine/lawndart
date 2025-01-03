@@ -12,7 +12,7 @@
 //See the License for the specific language governing permissions and
 //limitations under the License.
 
-part of lawndart;
+part of '../lawndart.dart';
 
 class MemoryStore extends _MapStore {
   MemoryStore._() : super._();

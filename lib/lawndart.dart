@@ -40,7 +40,7 @@ following: local storage, indexed db, and websql.
 See the `example/` directory for more sample code.
 
 */
-library lawndart;
+library;
 
 import 'dart:js_interop';
 import 'dart:js_interop_unsafe';
